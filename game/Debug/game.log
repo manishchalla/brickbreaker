@@ -1,0 +1,2 @@
+﻿  basic.cpp
+D:\Gaming\game\basic.cpp(1,10): error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
